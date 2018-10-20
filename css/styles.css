@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(231, 86, 42)
+}
+#name{
+    font-family: cursive;
+    font-size: 79px;
+    color: rgb(255, 217, 0);
+    text-shadow: -1px 0 black, 0 2px black, 0 2px black;
+    font-variant: small-caps;
+    position: relative;
+    bottom: 60px;
+    left: -8px;
+}
+
+#tagLine{
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(255, 217, 0);
+    text-shadow: -1px 0 black, 0 2px black, 0 2px black;
+    position: relative;
+    bottom: 140px;
+    left: -7px;
+    border-bottom: 7px double black;
+    width: 100%;
+    
+}
+img.pizzaman {
+    width: 15%;
+    height: 20%;
+    position: relative;
+    bottom: 155px;
+}
+
+h3.todaysTitle{
+    font-size: 30px;
+    color: rgb(255, 217, 0);
+    text-shadow: -1px 0 black, 0 2px black, 0 2px black;
+    position: absolute;
+    bottom: 68.3%;
+    left: 145px;
+    border-bottom: 2px solid black;
+}
+#special{
+    position: absolute;
+    font-size: 18px;
+    bottom: 66.5%;
+    left: 150px;
+}
+#menuLink{
+    position: relative;
+    bottom: 240px;
+    left: 140px;
+}
+#menu{
+    border: 2px solid black;
+    border-top: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+    bottom: 170px;
+}
+.menuTitle{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 139px;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-bottom: 3px double black;
+    background-color: rgba(255, 255, 255, 0.904);
+}
+.pizzaContent{
+    position: relative;
+}
+.pizzaName{
+    text-decoration: underline;
+    font-size: 16px;
+}
+img.pizzacat{
+    width: 35%;
+    left: 500px;
+    position: absolute;
+}
+#subLink{
+    position: relative;
+    bottom: 305px;
+    left: 735px;
+}
+#sub{
+    position: relative;
+    bottom: 140px;
+}
+.subTitle{
+    text-decoration: underline;
+    font-size: 22px;
+}
+#visLink{
+    position: relative;
+    bottom: 287px;
+    left: 700px;
+}
+.visTitle{
+    text-decoration: underline;
+    font-size: 22px;
+}
